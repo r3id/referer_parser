@@ -4,6 +4,6 @@ version: 0.1.0
 authors:
   - Alan Reid <r3id@users.noreply.github.com>
 
-crystal: 1.0.0
+crystal: ">= 0.35.1, < 2.0.0"
 
 license: MIT
